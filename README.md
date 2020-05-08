@@ -6,6 +6,7 @@ What this project was about:
 
 This project was intended to get me familiar with how to make get requests to API's, how to handle and display data, 
 and how to write modular code in which functions perform their own separate tasks and work together. 
+
 ** 
 What I did: 
 
