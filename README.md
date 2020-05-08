@@ -33,6 +33,7 @@ it's own job. They interact with one another, but the memory is separate from wh
 This project also has left me feeling empowered as I gain confidence in the potential of what I can write, but also in my 
 ability to read and comprehend documentation (as I had to read the docs for API's and the frameworks I've used before 
 working with them).
+
 **
 Looking forward: 
 
